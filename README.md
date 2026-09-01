@@ -2,7 +2,7 @@
 
 This repository provides the data, code, lexicon, scripts, and output files for the study:
 
-**Do Climate Risks Precede Climate Communication? Evidence from Global Central Banks**
+**Do Climate Risks Precede Climate Communication? Global Evidence from Central Banks**
 
 **Author:** Muhammad Bilal Zafar
 **ORCID:** https://orcid.org/0000-0001-6329-303X
@@ -106,5 +106,5 @@ The Stata replication file includes:
 
 Please cite this repository and the associated manuscript as follows:
 
-Zafar, M. B. (2026). *Do Climate Risks Precede Climate Communication? Evidence from Global Central Banks*. 
-Zafar, M. B. (2026). *Do Climate Risks Precede Climate Communication? Evidence from Global Central Banks*. Manuscript and supplementary replication materials.
+Zafar, M. B. (2026). *Do Climate Risks Precede Climate Communication? Global Evidence from Central Banks*. 
+Zafar, M. B. (2026). *Do Climate Risks Precede Climate Communication? Global Evidence from Central Banks*. Manuscript and supplementary replication materials.
