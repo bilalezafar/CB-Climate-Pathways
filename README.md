@@ -107,4 +107,3 @@ The Stata replication file includes:
 Please cite this repository and the associated manuscript as follows:
 
 Zafar, M. B. (2026). *Do Climate Risks Precede Climate Communication? Global Evidence from Central Banks*. 
-Zafar, M. B. (2026). *Do Climate Risks Precede Climate Communication? Global Evidence from Central Banks*. Manuscript and supplementary replication materials.
